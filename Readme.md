@@ -3,7 +3,7 @@
 ## Install Packages
 
     $ git clone https://github.com/rajuu89/rabbitmq_codetest.git
-    $ cd Python-RabbitMQ
+    $ cd rabbitmq_codetest
     $ pip3 install -r requirements.txt
 
 ## Configure app
@@ -13,8 +13,10 @@
 ## Running the project
 
   Open a terminal run the following commands
+
     $ python scripts/migrations.py
     $ python scripts/consumer.py
 
   Open another terminal run the following commands
+
     $ python scripts/producer.py
