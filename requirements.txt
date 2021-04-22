@@ -1,0 +1,5 @@
+### Installed Packages ###
+
+pika
+mysql-connector-python
+python-decouple
