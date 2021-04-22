@@ -2,7 +2,7 @@
 
 ## Install Packages
 
-    $ git clone git@github.com:rajuu89/rabbitmq_codetest.git
+    $ git clone https://github.com/rajuu89/rabbitmq_codetest.git
     $ cd Python-RabbitMQ
     $ pip3 install -r requirements.txt
 
